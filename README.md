@@ -1,7 +1,7 @@
-# IN
+# Data Science and Machine Learning projects
 Business Intelligence / Data Science assignments
 
-In the second assignment (**P2**) unsupervised learning techniques will be used to analyze a set of data and extract information about it. Said data set will be the one provided by the INE(Spanish National Institute of Statistics).
+In the second project (**P2**) unsupervised learning techniques will be used to analyze a set of data and extract information about it. Said data set will be the one provided by the INE(Spanish National Institute of Statistics).
 
 The set, processed from the original source, consists of 142 variables on sex, age, nationality, studies, employment status, migration and mobility, family status, etc. These data are related to the province of Granada, with a total of 83,499 cases.
 
@@ -26,7 +26,7 @@ The algorithms used for each use case will be:
 
 ***
 
-The third assignment (**P3**) is a [competition on DrivenData](https://www.drivendata.org/competitions/7/pumpit-up-data-mining-the-water-table/page/23/).
+The third project (**P3**) is a [competition on DrivenData](https://www.drivendata.org/competitions/7/pumpit-up-data-mining-the-water-table/page/23/).
 
 In this assignment, the data of Taarifa and the Ministry of Water of Tanzania will be analyzed, with the aim of predicting which water extraction pumps work, which ones need some repairs and which do not work.
 
