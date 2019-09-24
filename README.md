@@ -1,6 +1,12 @@
 # Data Science and Machine Learning projects
 Business Intelligence / Data Science assignments
 
+In the first project [P1](P1.pdf) a series of supervised learning classification algorithms for the resolution, visualization and experimental analysis of classification and basic preprocessing problems will be studied.
+
+To make this possible I will use KNIME, and also have the help of the Weka, which will be used in certain algorithms or JavaScript views, used for data visualization.
+
+The method followed in this project for the correct validation will be cross-validation of 5 partitions with a fixed seed. To analyze the results I will use: error tables, confusion matrices, ROC curves, measures such as TPR, TNR, FPR, FNR, AUC, F1-Value and G-mean.
+
 In the second project (**P2**) unsupervised learning techniques will be used to analyze a set of data and extract information about it. Said data set will be the one provided by the INE(Spanish National Institute of Statistics).
 
 The set, processed from the original source, consists of 142 variables on sex, age, nationality, studies, employment status, migration and mobility, family status, etc. These data are related to the province of Granada, with a total of 83,499 cases.
